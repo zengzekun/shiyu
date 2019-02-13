@@ -1,0 +1,8 @@
+from _sqlite3 import Statement
+class Foo(object):
+    def instance_method(self,arg):
+        statements
+    def class_method(cls,arg):
+        statements
+    def static_method(arg):
+        stetements
